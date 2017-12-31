@@ -1,0 +1,5 @@
+helper:
+  ☐ React native ERROR Packager can't listen on port 8081
+  ☐ https://stackoverflow.com/questions/43425754/react-native-error-packager-cant-listen-on-port-8081
+  ☐ sudo lsof -i :8081
+  ☐ kill -9 000000
